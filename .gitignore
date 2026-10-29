@@ -1,0 +1,9 @@
+build/
+bin/
+downloads/
+GenshinImpact/
+*.o
+*.a
+*.so
+*.exe
+.cache/
